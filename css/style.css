@@ -102,7 +102,7 @@ body {
     .main-info__menu {
         display: flex;
         flex-wrap: nowrap;
-        column-gap: 20px;
+        column-gap: 40px;
         row-gap: 10px;
         overflow-x: auto;
         scrollbar-width: none;
