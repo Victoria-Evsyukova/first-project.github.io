@@ -368,6 +368,7 @@ body {
         height: 40px;
         background-color: #FF3E79;
         border-radius: 50%;
+        cursor: pointer; 
     }
 
     .main-info__settings, 
